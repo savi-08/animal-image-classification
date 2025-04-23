@@ -1,0 +1,13 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore temporary files
+__pycache__/
+
+# Ignore model and test images
+*.h5
+*.jpg
+*.png
+
+# Mac system file (if you use Mac later)
+.DS_Store
